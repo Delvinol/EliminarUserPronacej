@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EliminarUserPronacej/static/css/main.62843402.css",
+    "main.js": "/EliminarUserPronacej/static/js/main.8c07d9c0.js",
+    "static/media/logopronacej.png": "/EliminarUserPronacej/static/media/logopronacej.1d70fe2e74653b0e76cc.png",
+    "index.html": "/EliminarUserPronacej/index.html",
+    "main.62843402.css.map": "/EliminarUserPronacej/static/css/main.62843402.css.map",
+    "main.8c07d9c0.js.map": "/EliminarUserPronacej/static/js/main.8c07d9c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62843402.css",
+    "static/js/main.8c07d9c0.js"
+  ]
+}
